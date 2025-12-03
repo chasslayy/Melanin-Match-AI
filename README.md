@@ -17,6 +17,14 @@ This final version of the project uses a **safe synthetic dataset** consisting o
 This approach allows for fair model evaluation without using real human photos.
 
 ---
+## Table of Contents
+1. Project Overview  
+2. Dataset  
+3. Methods  
+4. Models Used  
+5. Results  
+6. How to Run  
+7. Future Work  
 
 ## 📂 Dataset  
 The dataset contains **50 images total** (10 per category).
